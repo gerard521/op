@@ -1,0 +1,192 @@
+body{
+
+background-color: #eeeeee;
+
+}
+
+header{
+
+background-color: brown;
+}
+
+nav{
+
+background-color: aquamarine;
+}
+
+#intro{
+
+background-color:deeppink
+}
+
+.main-section-content h2 {
+
+background-color:darkkhaki
+}
+
+#bestsellers,
+footer {
+
+background-color:lightyellow
+}
+
+header,
+nav, 
+#intro,
+#main-section,
+#bestsellers,
+footer {
+    border: 1px solid black;
+}
+
+header,
+nav,
+#main-section {
+    border-radius: 10px;
+}
+
+header h1 {
+
+color: aliceblue;
+}
+
+h2,
+p{
+
+color: hotpink;
+}
+
+table,
+th,
+td {
+
+border: 1px solid black;   
+}
+
+tr:last-child{
+
+color: indianred;    
+}
+
+span{
+
+color:blue;
+}
+
+footer p:first child span{
+
+color: crimson;    
+}
+
+.teacher-info{
+
+border: 1px solid;
+border-radius: 5px;
+}
+
+button{
+
+background-color: darkred;
+color: aliceblue;
+}
+.parkinsans-<uniquefier> {
+    font-family:"parkinsans"
+    font-optical-sizing: auto;
+    font-weight
+    font-style:normal:
+    }
+    
+    body{
+    background-color: aliceblue;
+    }
+    
+    header{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+    
+    nav {
+    background-color: aliceblue;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    }
+    
+    #intro {
+    background-color: crimson;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    }
+    
+    .main-section-content h2 {
+    background-color: lavender;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    font-size: large;
+    text-align:center;
+    margin-bottom: 50px;
+    }
+    
+    #bestsellers
+    footer{
+    background-color: whitesmoke;    
+    }
+    
+    header,
+    nav.
+    #intro,
+    #main-section
+    #best-sellers
+    footer {
+    border 1px solid black    
+    }
+    header,
+    nav.
+    #main-section {
+    border: 10px;
+    }
+    h1 {
+    color: beige;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 30px;
+    }
+    
+    h2,
+    p {
+    color: aliceblue;
+    }
+    
+    table,
+    th,
+    td{
+    border: 1px solid blanchedalmond;    
+    }
+    tr:last-child {
+    color: blueviolet;   
+    }
+    span {
+    color: blue;
+    }
+    footer p {
+    color: yellowgreen;
+    }
+    .teacher-info {
+    border-radius: 5px;
+    margin: 10px;
+    width: 400px;
+    box-shadow: 6px 0px 21px -3px #333;
+    display: flex;
+    justify-content: center;
+    }
+    
+    button {
+    background-color: calc();
+    color: wheat;
+    font-size: 20px;
+    font-weight: bold;
+    }
